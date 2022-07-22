@@ -119,6 +119,6 @@
 
             </div>
         </div>
-        
+        <!-- Main Content Setion Ends -->
 
 <?php include('partials/footer.php'); ?>

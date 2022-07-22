@@ -1,7 +1,7 @@
 <?php 
 
     include('../config/constants.php'); 
-
+    include('login-check.php');
 
 ?>
 
@@ -14,7 +14,7 @@
     </head>
     
     <body>
-        <!-- Menu Section Starts -->
+       
         <div class="menu text-center">
             <div class="wrapper">
                 <ul>
@@ -27,4 +27,4 @@
                 </ul>
             </div>
         </div>
-        <!-- Menu Section Ends -->
+       
